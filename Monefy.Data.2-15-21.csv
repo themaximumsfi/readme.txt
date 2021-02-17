@@ -1,0 +1,3 @@
+date,account,category,amount,currency,converted amount,currency,description
+15/02/2021,Cash,Deposits,"1,000,000",USD,"1,000,000",USD,
+15/02/2021,Payment card,Savings,400,USD,400,USD,
